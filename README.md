@@ -2,8 +2,6 @@
 
 ![Architecture](Slide1.PNG)
 
-For more details, check out the technical blog post: [https://thelearningjourney.co/](https://thelearningjourney.co/automating-the-cloud-the-evolution-of-a-python-app-with-docker-kubernetes-and-terraform/)
-
 ## Application Description
 
 ![Fintech](https://github.com/bobocuillere/DevOpsProject-FintechAPP-AWS-Terraform/assets/45902931/9966fa5d-aa47-441f-a32d-a47596fd496c)
@@ -164,4 +162,3 @@ Navraj Singh is a Cloud Engineer with experience in designing, deploying, and op
 
 - Email: navraj771s@gmail.com
 - GitHub: https://github.com/
-- LinkedIn: https://linkedin.com/in/
